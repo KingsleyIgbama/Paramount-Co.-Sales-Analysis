@@ -14,6 +14,7 @@ This repository contains an in-depth analysis of sales trends, profitability, an
 - **Stakeholders**: Sales Managers, Marketing Team, Supply Chain Managers, Finance Team, Executives & Business Owners
 
 **Data Structure**
+
 **Independent Variables**:
 - Order Date, Ship Date, Ship Mode, Customer ID, Segment, Region, Product ID, Category, Sub-Category
 
@@ -21,6 +22,7 @@ This repository contains an in-depth analysis of sales trends, profitability, an
 - Sales, Profit, Discount, Quantity
 
 **Data Processing**
+
 **Data Cleaning**
 - Removed duplicate records and corrected inconsistent values
 - Standardized product categories and pricing data
@@ -30,6 +32,7 @@ This repository contains an in-depth analysis of sales trends, profitability, an
 - Interpolated missing sales data points using average sales trends
 
 **Key Insights**
+
 **Sales Trends**
 - Peak sales months: **March, September, and November** (holiday & promotional impacts)
 - **West and East** regions generate the highest revenue, while the **South** underperforms
@@ -52,6 +55,7 @@ This repository contains an in-depth analysis of sales trends, profitability, an
 - **First Class & Same-Day**: Higher revenue per order (potential for premium shipping promotions)
 
 **In-Analysis**
+
 **Top Sales Trends by Category**
 -	**Technology**: Highest sales revenue but moderate profit margins.
 -	**Furniture**: High sales but lowest profitability due to discounting.
@@ -82,6 +86,7 @@ This repository contains an in-depth analysis of sales trends, profitability, an
 
 
 **Post-Analysis and Insights**
+
 **Key Findings**
 -	Peak months (**March, September, and November**) contribute significantly to annual revenue.
 -	**Office Supplies** have the highest profitability, while Furniture products need margin improvements.
@@ -92,6 +97,7 @@ This repository contains an in-depth analysis of sales trends, profitability, an
 -	**Customer segments** behaved differently than expected, with Corporate buyers spending more per transaction than Consumers.
 
 **Recommendations**
+
 **Business Growth**
 - Increase marketing efforts in Q1 and Q3 to leverage peak months
 - Expand sales in underperforming regions (South) with localized promotions
