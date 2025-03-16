@@ -1,6 +1,6 @@
 **Paramount Co. Sales Analysis**
 
-https://drive.google.com/file/d/1bm7jzDyriqsuvBU7Z7VbgGQscvZ065FH/view?usp=sharing
+![image](https://github.com/user-attachments/assets/baf70ef1-1652-41c1-9757-5f1c2fdd40b5)
 
 **Introduction**
 This repository contains an in-depth analysis of sales trends, profitability, and customer segmentation for **Paramount Co.** using historical sales data. The objective is to identify key performance metrics, understand seasonal variations, and provide recommendations to improve revenue and operational efficiency.
@@ -54,18 +54,26 @@ This repository contains an in-depth analysis of sales trends, profitability, an
 -	**Technology**: Highest sales revenue but moderate profit margins.
 -	**Furniture**: High sales but lowest profitability due to discounting.
 -	**Office Supplies**: Moderate sales but highest profit margins.
+  ![image](https://github.com/user-attachments/assets/617c1f5f-12d2-42b1-876d-39b05add4348)
+
  
 **Regional Performance**
 -	**West and East** regions contribute over 60% of total sales, making them key markets.
 -	The **South** region struggles, requiring targeted marketing efforts.
+  ![image](https://github.com/user-attachments/assets/411c1258-aabb-42ba-ace3-3e28df2cc9b5)
+
  
 **Customer Segment Analysis**
 -	**Consumer segment** generates the highest sales ($1.16M), followed by Corporate and Home Office.
 -	**Corporate** customers have higher average order values, indicating potential for premium offerings.
+  ![image](https://github.com/user-attachments/assets/2d6892cb-3615-462c-876a-05d70837c2fd)
+
  
 **Shipping Mode Impact**
 -	**Standard Class** accounts for 59% of sales, showing cost-conscious customer behavior.
 -	**First Class and Same-Day** shipping have higher revenue per order, suggesting an opportunity to promote premium shipping options.
+  ![image](https://github.com/user-attachments/assets/f4892ab8-fdbf-4d6f-9848-35d9ced2c87d)
+
 
 **Post-Analysis and Insights**
 **Key Findings**
