@@ -108,12 +108,14 @@ This repository contains an in-depth analysis of sales trends, profitability, an
 This analysis provides actionable insights to optimize pricing, improve customer retention, and expand regional presence. By leveraging these findings, **Paramount Co.** can drive sustainable growth and enhance profitability.
 
 
+
 **Repository Contents**
 - `Technical Report.pdf` - Original report
 - `Sales Analysis Dashboard.xlsx` - Excel file for data pre-processing, trend analysis and visualization
 - `Dataset.xlsx` - Sales dataset used for analysis
 - `Presentation.mp4` - Summary presentation of key findings and strategic actions of the analysis
 - `Dashboard Screenshot.png` - Dashboard screenshot of the project
+
 
 **Author:** Kingsley Igbama
 
