@@ -4,6 +4,7 @@
 
 
 **Introduction**
+
 This repository contains an in-depth analysis of sales trends, profitability, and customer segmentation for **Paramount Co.** using historical sales data. The objective is to identify key performance metrics, understand seasonal variations, and provide recommendations to improve revenue and operational efficiency.
 
 **Data Overview**
