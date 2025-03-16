@@ -105,6 +105,7 @@ This repository contains an in-depth analysis of sales trends, profitability, an
 - Offer personalized promotions for **Corporate** clients to maximize high-value transactions
 
 **Conclusion**
+
 This analysis provides actionable insights to optimize pricing, improve customer retention, and expand regional presence. By leveraging these findings, **Paramount Co.** can drive sustainable growth and enhance profitability.
 
 
